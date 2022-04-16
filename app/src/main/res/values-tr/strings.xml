@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Hava Durumu</string>
+    <string name="city_name">Los Angeles</string>
+    <string name="time">17.45</string>
+    <string name="temperature">23°</string>
+    <string name="weather_information">Rüzgarlı ve Bulutlu Gece</string>
+    <string name="today">Bugün</string>
+    <string name="next_7_days">Sonraki 7 Gün</string>
+    <string name="first_hour_time">06:00</string>
+    <string name="first_hour_temperature">24°C</string>
+    <string name="second_hour_time">08:00</string>
+    <string name="second_hour_temperature">26°C</string>
+    <string name="third_hour_time">10:00</string>
+    <string name="third_hour_temperature">23°C</string>
+    <string name="current_date">Pazar, 17 Mayıs 2021</string>
+    <string name="humidity_percent">75%</string>
+    <string name="humidity_title">Nem</string>
+    <string name="wind_speed">8 km/h</string>
+    <string name="wind_title">Rüzgar</string>
+    <string name="air_pressure">1011</string>
+    <string name="air_pressure_title">Hava Basıncı</string>
+    <string name="visible_area">6 km</string>
+    <string name="visibility_title">Görüş</string>
+</resources>

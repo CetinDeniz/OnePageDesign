@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Weather Forecast</string>
+    <string name="city_name">Los Angeles</string>
+    <string name="time">5.45 PM</string>
+    <string name="temperature">23°</string>
+    <string name="weather_information">Moon Cloud Fast Wind</string>
+    <string name="today">Today</string>
+    <string name="next_7_days">Next 7 Days</string>
+    <string name="first_hour_time">06:00 AM</string>
+    <string name="first_hour_temperature">24°C</string>
+    <string name="second_hour_time">08:00 AM</string>
+    <string name="second_hour_temperature">26°C</string>
+    <string name="third_hour_time">10:00 AM</string>
+    <string name="third_hour_temperature">23°C</string>
+    <string name="current_date">Sunday, 17 May 2021</string>
+    <string name="humidity_percent">75%</string>
+    <string name="humidity_title">Humidity</string>
+    <string name="wind_speed">8 km/h</string>
+    <string name="wind_title">Wind</string>
+    <string name="air_pressure">1011</string>
+    <string name="air_pressure_title">Air Pressure</string>
+    <string name="visible_area">6 km</string>
+    <string name="visibility_title">Visibility</string>
+</resources>
