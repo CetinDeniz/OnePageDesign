@@ -1,5 +1,4 @@
 # OnePageDesign
-This repo is created for 2. week design homework of Android Bootcamp.
 
 ### Day
 ![Screenshot_1_Day](https://user-images.githubusercontent.com/75199061/163682770-78163ab0-c9c9-497b-9c24-e092b4ead985.png)
